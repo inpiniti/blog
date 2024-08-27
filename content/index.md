@@ -6,7 +6,7 @@ navigation: false
 ::hero
 ---
 actions:
-  - name: Get Started
+  - name: 문서 보기
     to: /stock
   - name: GitHub
     variant: outline
