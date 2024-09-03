@@ -11,7 +11,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: "inpiniti",
+      title: "potatomap",
       showTitle: true,
       darkModeToggle: true,
       logo: {

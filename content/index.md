@@ -23,7 +23,7 @@ actions:
 ---
 
 #title
-안녕하세요. :br inpiniti blog 입니다.
+안녕하세요. :br potatomap blog 입니다.
 
 #description
 주식 예측 app, 여행 지도 app 을 만들고 있습니다. :br 여행 지도는 9월 출시, 주식 예측을 10월 출시 예정입니다.
