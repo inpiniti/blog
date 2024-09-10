@@ -1,3 +1,3 @@
 title: docker
-icon: lucide:container
+icon: mdi:docker
 navigation.redirect: /docker/portainer
