@@ -50,15 +50,21 @@ export default defineAppConfig({
       title: "On This Page",
       links: [
         {
-          title: "Star on GitHub",
-          icon: "lucide:star",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          title: "주식예측 서비스",
+          icon: "lucide:chart-spline",
+          to: "https://stock.potatomap.com/",
           target: "_blank",
         },
         {
-          title: "Create Issues",
-          icon: "lucide:circle-dot",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues",
+          title: "여행 플레너",
+          icon: "lucide:plane",
+          to: "https://potatomap.com/",
+          target: "_blank",
+        },
+        {
+          title: "중고 검색기",
+          icon: "lucide:search",
+          to: "https://wjd0r.github.io/",
           target: "_blank",
         },
       ],
