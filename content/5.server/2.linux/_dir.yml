@@ -1,0 +1,3 @@
+title: server
+icon: material-symbols:cloud
+navigation.redirect: /server/linux/nfs
