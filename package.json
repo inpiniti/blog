@@ -10,11 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@iconify-json/arcticons": "^1.2.0",
-    "@iconify-json/logos": "^1.2.0",
-    "@iconify-json/mdi": "^1.2.0",
-    "@iconify-json/simple-icons": "^1.2.2",
-    "@iconify-json/uil": "^1.2.0",
     "nuxt": "^3.12.4",
     "shadcn-docs-nuxt": "^0.5.0",
     "vue": "^3.4.37",
