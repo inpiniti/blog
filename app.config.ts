@@ -22,7 +22,7 @@ export default defineAppConfig({
       links: [
         {
           icon: "lucide:github",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          to: "https://github.com/inpiniti",
           target: "_blank",
         },
       ],
@@ -40,7 +40,7 @@ export default defineAppConfig({
       links: [
         {
           icon: "lucide:github",
-          to: "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+          to: "https://github.com/inpiniti",
           target: "_blank",
         },
       ],
