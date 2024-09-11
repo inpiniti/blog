@@ -7,8 +7,8 @@ export default defineAppConfig({
     },
     theme: {
       customizable: true,
-      color: "blue",
-      radius: 0.5,
+      color: "Neutral",
+      radius: 1,
     },
     header: {
       title: "potatomap",
