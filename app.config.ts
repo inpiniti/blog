@@ -1,9 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: "shadcn-docs-nuxt",
-      description:
-        "Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.",
+      name: "blog",
+      description: "blog.potatomap",
     },
     theme: {
       customizable: true,
