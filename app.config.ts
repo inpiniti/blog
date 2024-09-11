@@ -72,6 +72,12 @@ export default defineAppConfig({
               description: "재무재표 조회 라이브러리 입니다.",
               target: "_blank",
             },
+            {
+              title: "inpiniti core",
+              to: "https://www.npmjs.com/package/inpiniti-core",
+              description: "디자인 시스템 라이브러리 입니다.",
+              target: "_blank",
+            },
           ],
         },
       ],
