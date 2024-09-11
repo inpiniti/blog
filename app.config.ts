@@ -25,13 +25,12 @@ export default defineAppConfig({
             {
               title: "stock",
               to: "/stock/tensorflow",
-              description:
-                "본 제품은 주식 예측 서비스로 신경망 모델을 구성하고 훈련하여 예측을 하는 서비스 입니다.",
+              description: "주식 예측 서비스 소개",
             },
             {
               title: "travel",
               to: "/travel/introduction",
-              description: "여행 플레너",
+              description: "여행 플레너 소개",
             },
             {
               title: "inpiniti finance",
