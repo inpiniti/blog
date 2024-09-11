@@ -12,14 +12,6 @@ actions:
     variant: outline
     to: https://github.com/inpiniti
     leftIcon: 'lucide:github'
-  - name: stock
-    variant: outline
-    to: https://stock-web-sable.vercel.app/
-    leftIcon: 'lucide:chart-spline'
-  - name: travel-map
-    variant: outline
-    to: https://travel-map-sable.vercel.app/
-    leftIcon: 'lucide:luggage'
 ---
 
 #title
